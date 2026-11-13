@@ -1,0 +1,380 @@
+[
+ {
+  "text": "بدون",
+  "startMs": 0,
+  "endMs": 462,
+  "timestampMs": 231,
+  "confidence": 1
+ },
+ {
+  "text": "قراءة؟",
+  "startMs": 462,
+  "endMs": 1080,
+  "timestampMs": 771,
+  "confidence": 1
+ },
+ {
+  "text": "الكلمة",
+  "startMs": 2090,
+  "endMs": 2779,
+  "timestampMs": 2434,
+  "confidence": 1
+ },
+ {
+  "text": "تحتاج",
+  "startMs": 2779,
+  "endMs": 3382,
+  "timestampMs": 3081,
+  "confidence": 1
+ },
+ {
+  "text": "لغة…",
+  "startMs": 3382,
+  "endMs": 3899,
+  "timestampMs": 3641,
+  "confidence": 1
+ },
+ {
+  "text": "قهوة…",
+  "startMs": 5150,
+  "endMs": 5620,
+  "timestampMs": 5385,
+  "confidence": 1
+ },
+ {
+  "text": "كوفي…",
+  "startMs": 6320,
+  "endMs": 6780,
+  "timestampMs": 6550,
+  "confidence": 1
+ },
+ {
+  "text": "كافيه…",
+  "startMs": 7330,
+  "endMs": 7720,
+  "timestampMs": 7525,
+  "confidence": 1
+ },
+ {
+  "text": "كلّ",
+  "startMs": 8550,
+  "endMs": 8988,
+  "timestampMs": 8769,
+  "confidence": 1
+ },
+ {
+  "text": "واحد",
+  "startMs": 8988,
+  "endMs": 9514,
+  "timestampMs": 9251,
+  "confidence": 1
+ },
+ {
+  "text": "يفهم",
+  "startMs": 9514,
+  "endMs": 10040,
+  "timestampMs": 9777,
+  "confidence": 1
+ },
+ {
+  "text": "كلمته",
+  "startMs": 10040,
+  "endMs": 10654,
+  "timestampMs": 10347,
+  "confidence": 1
+ },
+ {
+  "text": "فقط.",
+  "startMs": 10654,
+  "endMs": 11180,
+  "timestampMs": 10917,
+  "confidence": 1
+ },
+ {
+  "text": "لكنّ",
+  "startMs": 12150,
+  "endMs": 12591,
+  "timestampMs": 12370,
+  "confidence": 1
+ },
+ {
+  "text": "الرمز…",
+  "startMs": 12591,
+  "endMs": 13180,
+  "timestampMs": 12885,
+  "confidence": 1
+ },
+ {
+  "text": "يفهمه",
+  "startMs": 13620,
+  "endMs": 14140,
+  "timestampMs": 13880,
+  "confidence": 1
+ },
+ {
+  "text": "الجميع.",
+  "startMs": 14140,
+  "endMs": 14810,
+  "timestampMs": 14475,
+  "confidence": 1
+ },
+ {
+  "text": "الأشكال",
+  "startMs": 15870,
+  "endMs": 16620,
+  "timestampMs": 16245,
+  "confidence": 1
+ },
+ {
+  "text": "لها",
+  "startMs": 16620,
+  "endMs": 17036,
+  "timestampMs": 16828,
+  "confidence": 1
+ },
+ {
+  "text": "لغة",
+  "startMs": 17036,
+  "endMs": 17453,
+  "timestampMs": 17245,
+  "confidence": 1
+ },
+ {
+  "text": "واحدة.",
+  "startMs": 17453,
+  "endMs": 18120,
+  "timestampMs": 17786,
+  "confidence": 1
+ },
+ {
+  "text": "السهم",
+  "startMs": 18700,
+  "endMs": 19308,
+  "timestampMs": 19004,
+  "confidence": 1
+ },
+ {
+  "text": "يعني:",
+  "startMs": 19308,
+  "endMs": 19917,
+  "timestampMs": 19613,
+  "confidence": 1
+ },
+ {
+  "text": "اتّجاه.",
+  "startMs": 19917,
+  "endMs": 20700,
+  "timestampMs": 20308,
+  "confidence": 1
+ },
+ {
+  "text": "والعلامة",
+  "startMs": 21190,
+  "endMs": 22094,
+  "timestampMs": 21642,
+  "confidence": 1
+ },
+ {
+  "text": "تعني:",
+  "startMs": 22094,
+  "endMs": 22727,
+  "timestampMs": 22410,
+  "confidence": 1
+ },
+ {
+  "text": "تمّ.",
+  "startMs": 22727,
+  "endMs": 23270,
+  "timestampMs": 22998,
+  "confidence": 1
+ },
+ {
+  "text": "والدائرة",
+  "startMs": 23780,
+  "endMs": 24703,
+  "timestampMs": 24241,
+  "confidence": 1
+ },
+ {
+  "text": "تعني:",
+  "startMs": 24703,
+  "endMs": 25349,
+  "timestampMs": 25026,
+  "confidence": 1
+ },
+ {
+  "text": "اكتمال.",
+  "startMs": 25349,
+  "endMs": 26180,
+  "timestampMs": 25764,
+  "confidence": 1
+ },
+ {
+  "text": "والمفاجأة؟",
+  "startMs": 27080,
+  "endMs": 27840,
+  "timestampMs": 27460,
+  "confidence": 1
+ },
+ {
+  "text": "اسمنا…",
+  "startMs": 28440,
+  "endMs": 29020,
+  "timestampMs": 28730,
+  "confidence": 1
+ },
+ {
+  "text": "سهم.",
+  "startMs": 29460,
+  "endMs": 30020,
+  "timestampMs": 29740,
+  "confidence": 1
+ },
+ {
+  "text": "العربيّ",
+  "startMs": 31130,
+  "endMs": 31830,
+  "timestampMs": 31480,
+  "confidence": 1
+ },
+ {
+  "text": "يقرأ",
+  "startMs": 31830,
+  "endMs": 32297,
+  "timestampMs": 32063,
+  "confidence": 1
+ },
+ {
+  "text": "الاسم…",
+  "startMs": 32297,
+  "endMs": 32920,
+  "timestampMs": 32608,
+  "confidence": 1
+ },
+ {
+  "text": "والأجنبيّ",
+  "startMs": 33380,
+  "endMs": 34250,
+  "timestampMs": 33815,
+  "confidence": 1
+ },
+ {
+  "text": "يرى",
+  "startMs": 34250,
+  "endMs": 34646,
+  "timestampMs": 34448,
+  "confidence": 1
+ },
+ {
+  "text": "السهم…",
+  "startMs": 34646,
+  "endMs": 35280,
+  "timestampMs": 34963,
+  "confidence": 1
+ },
+ {
+  "text": "والاثنان",
+  "startMs": 35800,
+  "endMs": 36596,
+  "timestampMs": 36198,
+  "confidence": 1
+ },
+ {
+  "text": "فهما",
+  "startMs": 36596,
+  "endMs": 37074,
+  "timestampMs": 36835,
+  "confidence": 1
+ },
+ {
+  "text": "نفس",
+  "startMs": 37074,
+  "endMs": 37472,
+  "timestampMs": 37273,
+  "confidence": 1
+ },
+ {
+  "text": "الشيء.",
+  "startMs": 37472,
+  "endMs": 38110,
+  "timestampMs": 37791,
+  "confidence": 1
+ },
+ {
+  "text": "الشعار",
+  "startMs": 39120,
+  "endMs": 39703,
+  "timestampMs": 39411,
+  "confidence": 1
+ },
+ {
+  "text": "القويّ…",
+  "startMs": 39703,
+  "endMs": 40360,
+  "timestampMs": 40031,
+  "confidence": 1
+ },
+ {
+  "text": "لا",
+  "startMs": 40850,
+  "endMs": 41147,
+  "timestampMs": 40998,
+  "confidence": 1
+ },
+ {
+  "text": "يحتاج",
+  "startMs": 41147,
+  "endMs": 41667,
+  "timestampMs": 41407,
+  "confidence": 1
+ },
+ {
+  "text": "مترجماً.",
+  "startMs": 41667,
+  "endMs": 42410,
+  "timestampMs": 42038,
+  "confidence": 1
+ },
+ {
+  "text": "غداً…",
+  "startMs": 43520,
+  "endMs": 44060,
+  "timestampMs": 43790,
+  "confidence": 1
+ },
+ {
+  "text": "يريد",
+  "startMs": 44590,
+  "endMs": 45084,
+  "timestampMs": 44837,
+  "confidence": 1
+ },
+ {
+  "text": "شعاراً…",
+  "startMs": 45084,
+  "endMs": 45825,
+  "timestampMs": 45454,
+  "confidence": 1
+ },
+ {
+  "text": "يكبر",
+  "startMs": 45825,
+  "endMs": 46319,
+  "timestampMs": 46072,
+  "confidence": 1
+ },
+ {
+  "text": "مع",
+  "startMs": 46319,
+  "endMs": 46648,
+  "timestampMs": 46484,
+  "confidence": 1
+ },
+ {
+  "text": "مشروعه.",
+  "startMs": 46648,
+  "endMs": 47390,
+  "timestampMs": 47019,
+  "confidence": 1
+ }
+]

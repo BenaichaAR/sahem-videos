@@ -1,0 +1,51 @@
+[
+ {
+  "text": "أريد",
+  "startMs": 0,
+  "endMs": 659,
+  "timestampMs": 329,
+  "confidence": 1
+ },
+ {
+  "text": "شعاراً…",
+  "startMs": 659,
+  "endMs": 1650,
+  "timestampMs": 1154,
+  "confidence": 1
+ },
+ {
+  "text": "يفهمه",
+  "startMs": 2190,
+  "endMs": 2775,
+  "timestampMs": 2482,
+  "confidence": 1
+ },
+ {
+  "text": "العربيّ",
+  "startMs": 2775,
+  "endMs": 3527,
+  "timestampMs": 3151,
+  "confidence": 1
+ },
+ {
+  "text": "والأجنبيّ…",
+  "startMs": 3527,
+  "endMs": 4530,
+  "timestampMs": 4028,
+  "confidence": 1
+ },
+ {
+  "text": "بدون",
+  "startMs": 5100,
+  "endMs": 5635,
+  "timestampMs": 5367,
+  "confidence": 1
+ },
+ {
+  "text": "قراءة.",
+  "startMs": 5635,
+  "endMs": 6350,
+  "timestampMs": 5992,
+  "confidence": 1
+ }
+]

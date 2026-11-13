@@ -1,0 +1,352 @@
+[
+ {
+  "text": "لونٌ",
+  "startMs": 0,
+  "endMs": 513,
+  "timestampMs": 256,
+  "confidence": 1
+ },
+ {
+  "text": "لا",
+  "startMs": 513,
+  "endMs": 856,
+  "timestampMs": 685,
+  "confidence": 1
+ },
+ {
+  "text": "يملكه",
+  "startMs": 856,
+  "endMs": 1456,
+  "timestampMs": 1156,
+  "confidence": 1
+ },
+ {
+  "text": "أحد؟",
+  "startMs": 1456,
+  "endMs": 1970,
+  "timestampMs": 1713,
+  "confidence": 1
+ },
+ {
+  "text": "انظر",
+  "startMs": 2940,
+  "endMs": 3323,
+  "timestampMs": 3131,
+  "confidence": 1
+ },
+ {
+  "text": "إلى",
+  "startMs": 3323,
+  "endMs": 3643,
+  "timestampMs": 3483,
+  "confidence": 1
+ },
+ {
+  "text": "أيّ",
+  "startMs": 3643,
+  "endMs": 3962,
+  "timestampMs": 3802,
+  "confidence": 1
+ },
+ {
+  "text": "شارع…",
+  "startMs": 3962,
+  "endMs": 4410,
+  "timestampMs": 4186,
+  "confidence": 1
+ },
+ {
+  "text": "المحلّات",
+  "startMs": 5090,
+  "endMs": 5900,
+  "timestampMs": 5495,
+  "confidence": 1
+ },
+ {
+  "text": "تتشابه…",
+  "startMs": 5900,
+  "endMs": 6630,
+  "timestampMs": 6265,
+  "confidence": 1
+ },
+ {
+  "text": "حتّى",
+  "startMs": 7180,
+  "endMs": 7617,
+  "timestampMs": 7398,
+  "confidence": 1
+ },
+ {
+  "text": "تختفي.",
+  "startMs": 7617,
+  "endMs": 8200,
+  "timestampMs": 7908,
+  "confidence": 1
+ },
+ {
+  "text": "والسرّ؟",
+  "startMs": 8810,
+  "endMs": 9350,
+  "timestampMs": 9080,
+  "confidence": 1
+ },
+ {
+  "text": "ليس",
+  "startMs": 9950,
+  "endMs": 10275,
+  "timestampMs": 10112,
+  "confidence": 1
+ },
+ {
+  "text": "في",
+  "startMs": 10275,
+  "endMs": 10535,
+  "timestampMs": 10405,
+  "confidence": 1
+ },
+ {
+  "text": "لونٍ",
+  "startMs": 10535,
+  "endMs": 10925,
+  "timestampMs": 10730,
+  "confidence": 1
+ },
+ {
+  "text": "نادر.",
+  "startMs": 10925,
+  "endMs": 11380,
+  "timestampMs": 11152,
+  "confidence": 1
+ },
+ {
+  "text": "السرّ",
+  "startMs": 12060,
+  "endMs": 12739,
+  "timestampMs": 12399,
+  "confidence": 1
+ },
+ {
+  "text": "في",
+  "startMs": 12739,
+  "endMs": 13127,
+  "timestampMs": 12933,
+  "confidence": 1
+ },
+ {
+  "text": "لونٍ",
+  "startMs": 13127,
+  "endMs": 13710,
+  "timestampMs": 13419,
+  "confidence": 1
+ },
+ {
+  "text": "واحد…",
+  "startMs": 13710,
+  "endMs": 14390,
+  "timestampMs": 14050,
+  "confidence": 1
+ },
+ {
+  "text": "في",
+  "startMs": 14980,
+  "endMs": 15244,
+  "timestampMs": 15112,
+  "confidence": 1
+ },
+ {
+  "text": "نفس",
+  "startMs": 15244,
+  "endMs": 15575,
+  "timestampMs": 15409,
+  "confidence": 1
+ },
+ {
+  "text": "المكان…",
+  "startMs": 15575,
+  "endMs": 16170,
+  "timestampMs": 15872,
+  "confidence": 1
+ },
+ {
+  "text": "في",
+  "startMs": 16770,
+  "endMs": 17102,
+  "timestampMs": 16936,
+  "confidence": 1
+ },
+ {
+  "text": "كلّ",
+  "startMs": 17102,
+  "endMs": 17518,
+  "timestampMs": 17310,
+  "confidence": 1
+ },
+ {
+  "text": "مرّة.",
+  "startMs": 17518,
+  "endMs": 18100,
+  "timestampMs": 17809,
+  "confidence": 1
+ },
+ {
+  "text": "على",
+  "startMs": 18850,
+  "endMs": 19130,
+  "timestampMs": 18990,
+  "confidence": 1
+ },
+ {
+  "text": "الكوب…",
+  "startMs": 19130,
+  "endMs": 19580,
+  "timestampMs": 19355,
+  "confidence": 1
+ },
+ {
+  "text": "على",
+  "startMs": 20060,
+  "endMs": 20379,
+  "timestampMs": 20219,
+  "confidence": 1
+ },
+ {
+  "text": "الكيس…",
+  "startMs": 20379,
+  "endMs": 20890,
+  "timestampMs": 20634,
+  "confidence": 1
+ },
+ {
+  "text": "على",
+  "startMs": 21290,
+  "endMs": 21570,
+  "timestampMs": 21430,
+  "confidence": 1
+ },
+ {
+  "text": "الباب…",
+  "startMs": 21570,
+  "endMs": 22020,
+  "timestampMs": 21795,
+  "confidence": 1
+ },
+ {
+  "text": "على",
+  "startMs": 22450,
+  "endMs": 22760,
+  "timestampMs": 22605,
+  "confidence": 1
+ },
+ {
+  "text": "الشاشة.",
+  "startMs": 22760,
+  "endMs": 23320,
+  "timestampMs": 23040,
+  "confidence": 1
+ },
+ {
+  "text": "اللون",
+  "startMs": 24050,
+  "endMs": 24638,
+  "timestampMs": 24344,
+  "confidence": 1
+ },
+ {
+  "text": "لا",
+  "startMs": 24638,
+  "endMs": 24974,
+  "timestampMs": 24806,
+  "confidence": 1
+ },
+ {
+  "text": "يُشترى…",
+  "startMs": 24974,
+  "endMs": 25730,
+  "timestampMs": 25352,
+  "confidence": 1
+ },
+ {
+  "text": "يُكرَّر…",
+  "startMs": 26370,
+  "endMs": 27080,
+  "timestampMs": 26725,
+  "confidence": 1
+ },
+ {
+  "text": "حتّى",
+  "startMs": 27470,
+  "endMs": 27974,
+  "timestampMs": 27722,
+  "confidence": 1
+ },
+ {
+  "text": "يصير",
+  "startMs": 27974,
+  "endMs": 28479,
+  "timestampMs": 28227,
+  "confidence": 1
+ },
+ {
+  "text": "لك.",
+  "startMs": 28479,
+  "endMs": 28900,
+  "timestampMs": 28689,
+  "confidence": 1
+ },
+ {
+  "text": "غداً…",
+  "startMs": 29590,
+  "endMs": 30140,
+  "timestampMs": 29865,
+  "confidence": 1
+ },
+ {
+  "text": "يريد",
+  "startMs": 30690,
+  "endMs": 31118,
+  "timestampMs": 30904,
+  "confidence": 1
+ },
+ {
+  "text": "شعاراً…",
+  "startMs": 31118,
+  "endMs": 31760,
+  "timestampMs": 31439,
+  "confidence": 1
+ },
+ {
+  "text": "يفهمه",
+  "startMs": 32170,
+  "endMs": 32640,
+  "timestampMs": 32405,
+  "confidence": 1
+ },
+ {
+  "text": "العربيّ",
+  "startMs": 32640,
+  "endMs": 33244,
+  "timestampMs": 32942,
+  "confidence": 1
+ },
+ {
+  "text": "والأجنبيّ…",
+  "startMs": 33244,
+  "endMs": 34050,
+  "timestampMs": 33647,
+  "confidence": 1
+ },
+ {
+  "text": "بدون",
+  "startMs": 34460,
+  "endMs": 34961,
+  "timestampMs": 34710,
+  "confidence": 1
+ },
+ {
+  "text": "قراءة.",
+  "startMs": 34961,
+  "endMs": 35630,
+  "timestampMs": 35295,
+  "confidence": 1
+ }
+]

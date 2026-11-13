@@ -1,0 +1,51 @@
+[
+ {
+  "text": "أريد",
+  "startMs": 0,
+  "endMs": 694,
+  "timestampMs": 347,
+  "confidence": 1
+ },
+ {
+  "text": "لوناً…",
+  "startMs": 694,
+  "endMs": 1620,
+  "timestampMs": 1157,
+  "confidence": 1
+ },
+ {
+  "text": "لا",
+  "startMs": 2440,
+  "endMs": 2823,
+  "timestampMs": 2631,
+  "confidence": 1
+ },
+ {
+  "text": "يملكه",
+  "startMs": 2823,
+  "endMs": 3494,
+  "timestampMs": 3159,
+  "confidence": 1
+ },
+ {
+  "text": "أحد…",
+  "startMs": 3494,
+  "endMs": 4070,
+  "timestampMs": 3782,
+  "confidence": 1
+ },
+ {
+  "text": "في",
+  "startMs": 4630,
+  "endMs": 5014,
+  "timestampMs": 4822,
+  "confidence": 1
+ },
+ {
+  "text": "مدينتي.",
+  "startMs": 5014,
+  "endMs": 5880,
+  "timestampMs": 5447,
+  "confidence": 1
+ }
+]

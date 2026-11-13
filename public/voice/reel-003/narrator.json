@@ -1,0 +1,345 @@
+[
+ {
+  "text": "موقعٌ",
+  "startMs": 0,
+  "endMs": 636,
+  "timestampMs": 318,
+  "confidence": 1
+ },
+ {
+  "text": "بدون",
+  "startMs": 636,
+  "endMs": 1182,
+  "timestampMs": 909,
+  "confidence": 1
+ },
+ {
+  "text": "كلمات؟",
+  "startMs": 1182,
+  "endMs": 1910,
+  "timestampMs": 1546,
+  "confidence": 1
+ },
+ {
+  "text": "الحقيقة…",
+  "startMs": 2560,
+  "endMs": 3950,
+  "timestampMs": 3255,
+  "confidence": 1
+ },
+ {
+  "text": "الزائر",
+  "startMs": 4500,
+  "endMs": 4973,
+  "timestampMs": 4736,
+  "confidence": 1
+ },
+ {
+  "text": "لا",
+  "startMs": 4973,
+  "endMs": 5210,
+  "timestampMs": 5092,
+  "confidence": 1
+ },
+ {
+  "text": "يقرأ",
+  "startMs": 5210,
+  "endMs": 5566,
+  "timestampMs": 5388,
+  "confidence": 1
+ },
+ {
+  "text": "أصلاً.",
+  "startMs": 5566,
+  "endMs": 6039,
+  "timestampMs": 5803,
+  "confidence": 1
+ },
+ {
+  "text": "يمرّ",
+  "startMs": 6980,
+  "endMs": 7494,
+  "timestampMs": 7237,
+  "confidence": 1
+ },
+ {
+  "text": "بعينه…",
+  "startMs": 7494,
+  "endMs": 8180,
+  "timestampMs": 7837,
+  "confidence": 1
+ },
+ {
+  "text": "ثلاث",
+  "startMs": 8610,
+  "endMs": 9077,
+  "timestampMs": 8843,
+  "confidence": 1
+ },
+ {
+  "text": "ثوانٍ…",
+  "startMs": 9077,
+  "endMs": 9700,
+  "timestampMs": 9388,
+  "confidence": 1
+ },
+ {
+  "text": "ويقرّر.",
+  "startMs": 10200,
+  "endMs": 10840,
+  "timestampMs": 10520,
+  "confidence": 1
+ },
+ {
+  "text": "فبنينا",
+  "startMs": 11590,
+  "endMs": 12193,
+  "timestampMs": 11891,
+  "confidence": 1
+ },
+ {
+  "text": "موقعاً",
+  "startMs": 12193,
+  "endMs": 12796,
+  "timestampMs": 12495,
+  "confidence": 1
+ },
+ {
+  "text": "لمقهى…",
+  "startMs": 12796,
+  "endMs": 13400,
+  "timestampMs": 13098,
+  "confidence": 1
+ },
+ {
+  "text": "بالأشكال",
+  "startMs": 13880,
+  "endMs": 14567,
+  "timestampMs": 14223,
+  "confidence": 1
+ },
+ {
+  "text": "فقط.",
+  "startMs": 14567,
+  "endMs": 14980,
+  "timestampMs": 14773,
+  "confidence": 1
+ },
+ {
+  "text": "صورةٌ…",
+  "startMs": 15690,
+  "endMs": 16610,
+  "timestampMs": 16149,
+  "confidence": 1
+ },
+ {
+  "text": "تقول",
+  "startMs": 17100,
+  "endMs": 17605,
+  "timestampMs": 17352,
+  "confidence": 1
+ },
+ {
+  "text": "ماذا",
+  "startMs": 17605,
+  "endMs": 18110,
+  "timestampMs": 17857,
+  "confidence": 1
+ },
+ {
+  "text": "نبيع.",
+  "startMs": 18110,
+  "endMs": 18699,
+  "timestampMs": 18405,
+  "confidence": 1
+ },
+ {
+  "text": "أيقونتان…",
+  "startMs": 19360,
+  "endMs": 20280,
+  "timestampMs": 19820,
+  "confidence": 1
+ },
+ {
+  "text": "تقولان",
+  "startMs": 20680,
+  "endMs": 21464,
+  "timestampMs": 21072,
+  "confidence": 1
+ },
+ {
+  "text": "أين",
+  "startMs": 21464,
+  "endMs": 21954,
+  "timestampMs": 21709,
+  "confidence": 1
+ },
+ {
+  "text": "ومتى.",
+  "startMs": 21954,
+  "endMs": 22640,
+  "timestampMs": 22297,
+  "confidence": 1
+ },
+ {
+  "text": "وزرٌّ",
+  "startMs": 23250,
+  "endMs": 23880,
+  "timestampMs": 23565,
+  "confidence": 1
+ },
+ {
+  "text": "واحد…",
+  "startMs": 23880,
+  "endMs": 24510,
+  "timestampMs": 24195,
+  "confidence": 1
+ },
+ {
+  "text": "يقول:",
+  "startMs": 24890,
+  "endMs": 25450,
+  "timestampMs": 25170,
+  "confidence": 1
+ },
+ {
+  "text": "هنا.",
+  "startMs": 25800,
+  "endMs": 26190,
+  "timestampMs": 25995,
+  "confidence": 1
+ },
+ {
+  "text": "إذا",
+  "startMs": 26800,
+  "endMs": 27177,
+  "timestampMs": 26988,
+  "confidence": 1
+ },
+ {
+  "text": "فهمك",
+  "startMs": 27177,
+  "endMs": 27631,
+  "timestampMs": 27404,
+  "confidence": 1
+ },
+ {
+  "text": "الزائر",
+  "startMs": 27631,
+  "endMs": 28235,
+  "timestampMs": 27933,
+  "confidence": 1
+ },
+ {
+  "text": "بدون",
+  "startMs": 28235,
+  "endMs": 28688,
+  "timestampMs": 28462,
+  "confidence": 1
+ },
+ {
+  "text": "أن",
+  "startMs": 28688,
+  "endMs": 28991,
+  "timestampMs": 28839,
+  "confidence": 1
+ },
+ {
+  "text": "يقرأ…",
+  "startMs": 28991,
+  "endMs": 29520,
+  "timestampMs": 29255,
+  "confidence": 1
+ },
+ {
+  "text": "فكلّ",
+  "startMs": 30040,
+  "endMs": 30583,
+  "timestampMs": 30311,
+  "confidence": 1
+ },
+ {
+  "text": "كلمة",
+  "startMs": 30583,
+  "endMs": 31125,
+  "timestampMs": 30854,
+  "confidence": 1
+ },
+ {
+  "text": "بعدها…",
+  "startMs": 31125,
+  "endMs": 31849,
+  "timestampMs": 31488,
+  "confidence": 1
+ },
+ {
+  "text": "قوّة",
+  "startMs": 32310,
+  "endMs": 32745,
+  "timestampMs": 32527,
+  "confidence": 1
+ },
+ {
+  "text": "إضافيّة.",
+  "startMs": 32745,
+  "endMs": 33470,
+  "timestampMs": 33107,
+  "confidence": 1
+ },
+ {
+  "text": "غداً…",
+  "startMs": 34210,
+  "endMs": 34890,
+  "timestampMs": 34550,
+  "confidence": 1
+ },
+ {
+  "text": "يريد",
+  "startMs": 35280,
+  "endMs": 35687,
+  "timestampMs": 35483,
+  "confidence": 1
+ },
+ {
+  "text": "لوناً…",
+  "startMs": 35687,
+  "endMs": 36230,
+  "timestampMs": 35958,
+  "confidence": 1
+ },
+ {
+  "text": "لا",
+  "startMs": 36680,
+  "endMs": 37000,
+  "timestampMs": 36839,
+  "confidence": 1
+ },
+ {
+  "text": "يملكه",
+  "startMs": 37000,
+  "endMs": 37560,
+  "timestampMs": 37280,
+  "confidence": 1
+ },
+ {
+  "text": "أحد",
+  "startMs": 37560,
+  "endMs": 37960,
+  "timestampMs": 37760,
+  "confidence": 1
+ },
+ {
+  "text": "في",
+  "startMs": 37960,
+  "endMs": 38280,
+  "timestampMs": 38120,
+  "confidence": 1
+ },
+ {
+  "text": "مدينته.",
+  "startMs": 38280,
+  "endMs": 39000,
+  "timestampMs": 38640,
+  "confidence": 1
+ }
+]

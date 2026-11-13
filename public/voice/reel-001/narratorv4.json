@@ -1,0 +1,380 @@
+[
+ {
+  "text": "شعارٌ",
+  "startMs": 0,
+  "endMs": 580,
+  "timestampMs": 290,
+  "confidence": 0.883
+ },
+ {
+  "text": "يُسمَع؟",
+  "startMs": 580,
+  "endMs": 1800,
+  "timestampMs": 1190,
+  "confidence": 0.665
+ },
+ {
+  "text": "يعني",
+  "startMs": 1800,
+  "endMs": 2600,
+  "timestampMs": 2200,
+  "confidence": 0.932
+ },
+ {
+  "text": "تسمعه",
+  "startMs": 2600,
+  "endMs": 3240,
+  "timestampMs": 2920,
+  "confidence": 0.957
+ },
+ {
+  "text": "وأنت",
+  "startMs": 3240,
+  "endMs": 3660,
+  "timestampMs": 3450,
+  "confidence": 0.748
+ },
+ {
+  "text": "مغمض",
+  "startMs": 3660,
+  "endMs": 4080,
+  "timestampMs": 3870,
+  "confidence": 0.974
+ },
+ {
+  "text": "عينيك…",
+  "startMs": 4080,
+  "endMs": 4680,
+  "timestampMs": 4380,
+  "confidence": 0.865
+ },
+ {
+  "text": "وتعرف",
+  "startMs": 4680,
+  "endMs": 5660,
+  "timestampMs": 5170,
+  "confidence": 0.89
+ },
+ {
+  "text": "أنّه",
+  "startMs": 5660,
+  "endMs": 6120,
+  "timestampMs": 5890,
+  "confidence": 0.942
+ },
+ {
+  "text": "هو.",
+  "startMs": 6120,
+  "endMs": 6440,
+  "timestampMs": 6280,
+  "confidence": 0.988
+ },
+ {
+  "text": "أنت",
+  "startMs": 7920,
+  "endMs": 8540,
+  "timestampMs": 8230,
+  "confidence": 0.851
+ },
+ {
+  "text": "تعرف",
+  "startMs": 8540,
+  "endMs": 8900,
+  "timestampMs": 8720,
+  "confidence": 0.987
+ },
+ {
+  "text": "أصواتاً",
+  "startMs": 8900,
+  "endMs": 9380,
+  "timestampMs": 9140,
+  "confidence": 0.929
+ },
+ {
+  "text": "كثيرة",
+  "startMs": 9380,
+  "endMs": 10000,
+  "timestampMs": 9690,
+  "confidence": 0.964
+ },
+ {
+  "text": "من",
+  "startMs": 10000,
+  "endMs": 10580,
+  "timestampMs": 10290,
+  "confidence": 0.99
+ },
+ {
+  "text": "أوّل",
+  "startMs": 10580,
+  "endMs": 11100,
+  "timestampMs": 10840,
+  "confidence": 0.961
+ },
+ {
+  "text": "نغمة.",
+  "startMs": 11100,
+  "endMs": 11580,
+  "timestampMs": 11340,
+  "confidence": 0.929
+ },
+ {
+  "text": "صوت",
+  "startMs": 11580,
+  "endMs": 12720,
+  "timestampMs": 12150,
+  "confidence": 0.934
+ },
+ {
+  "text": "تشغيل",
+  "startMs": 12720,
+  "endMs": 13180,
+  "timestampMs": 12950,
+  "confidence": 0.964
+ },
+ {
+  "text": "جهاز…",
+  "startMs": 13180,
+  "endMs": 13820,
+  "timestampMs": 13500,
+  "confidence": 0.963
+ },
+ {
+  "text": "صوت",
+  "startMs": 13820,
+  "endMs": 14700,
+  "timestampMs": 14260,
+  "confidence": 0.875
+ },
+ {
+  "text": "إشعار…",
+  "startMs": 14700,
+  "endMs": 15300,
+  "timestampMs": 15000,
+  "confidence": 0.928
+ },
+ {
+  "text": "هذه",
+  "startMs": 15620,
+  "endMs": 16240,
+  "timestampMs": 15930,
+  "confidence": 0.986
+ },
+ {
+  "text": "شعارات،",
+  "startMs": 16240,
+  "endMs": 17140,
+  "timestampMs": 16690,
+  "confidence": 0.954
+ },
+ {
+  "text": "لكن",
+  "startMs": 17460,
+  "endMs": 18080,
+  "timestampMs": 17770,
+  "confidence": 0.914
+ },
+ {
+  "text": "بالأُذُن.",
+  "startMs": 18080,
+  "endMs": 19520,
+  "timestampMs": 18800,
+  "confidence": 0.752
+ },
+ {
+  "text": "فبنينا",
+  "startMs": 19520,
+  "endMs": 20720,
+  "timestampMs": 20120,
+  "confidence": 0.935
+ },
+ {
+  "text": "الصوت",
+  "startMs": 20720,
+  "endMs": 21200,
+  "timestampMs": 20960,
+  "confidence": 0.891
+ },
+ {
+  "text": "من",
+  "startMs": 21200,
+  "endMs": 21600,
+  "timestampMs": 21400,
+  "confidence": 0.983
+ },
+ {
+  "text": "الشكل",
+  "startMs": 21600,
+  "endMs": 22080,
+  "timestampMs": 21840,
+  "confidence": 0.956
+ },
+ {
+  "text": "نفسه.",
+  "startMs": 22080,
+  "endMs": 23180,
+  "timestampMs": 22630,
+  "confidence": 0.996
+ },
+ {
+  "text": "النقطة…",
+  "startMs": 23180,
+  "endMs": 24780,
+  "timestampMs": 23980,
+  "confidence": 0.959
+ },
+ {
+  "text": "لها",
+  "startMs": 24780,
+  "endMs": 25300,
+  "timestampMs": 25040,
+  "confidence": 0.938
+ },
+ {
+  "text": "صوت.",
+  "startMs": 25300,
+  "endMs": 25960,
+  "timestampMs": 25630,
+  "confidence": 0.985
+ },
+ {
+  "text": "الطريق…",
+  "startMs": 26840,
+  "endMs": 27460,
+  "timestampMs": 27150,
+  "confidence": 0.979
+ },
+ {
+  "text": "له",
+  "startMs": 27700,
+  "endMs": 28320,
+  "timestampMs": 28010,
+  "confidence": 0.868
+ },
+ {
+  "text": "صوت.",
+  "startMs": 28320,
+  "endMs": 28920,
+  "timestampMs": 28620,
+  "confidence": 0.993
+ },
+ {
+  "text": "والوصول…",
+  "startMs": 28920,
+  "endMs": 30720,
+  "timestampMs": 29820,
+  "confidence": 0.921
+ },
+ {
+  "text": "له",
+  "startMs": 30720,
+  "endMs": 31600,
+  "timestampMs": 31160,
+  "confidence": 0.957
+ },
+ {
+  "text": "ضربة.",
+  "startMs": 31600,
+  "endMs": 33100,
+  "timestampMs": 32350,
+  "confidence": 0.596
+ },
+ {
+  "text": "العلامة",
+  "startMs": 33100,
+  "endMs": 34080,
+  "timestampMs": 33590,
+  "confidence": 0.946
+ },
+ {
+  "text": "القويّة…",
+  "startMs": 34080,
+  "endMs": 34740,
+  "timestampMs": 34410,
+  "confidence": 0.961
+ },
+ {
+  "text": "لا",
+  "startMs": 34740,
+  "endMs": 35620,
+  "timestampMs": 35180,
+  "confidence": 0.983
+ },
+ {
+  "text": "تُرى",
+  "startMs": 35620,
+  "endMs": 35990,
+  "timestampMs": 35990,
+  "confidence": 0.734
+ },
+ {
+  "text": "فقط.",
+  "startMs": 35990,
+  "endMs": 36360,
+  "timestampMs": 35990,
+  "confidence": 0.734
+ },
+ {
+  "text": "تُسمَع.",
+  "startMs": 36920,
+  "endMs": 37800,
+  "timestampMs": 37360,
+  "confidence": 0.921
+ },
+ {
+  "text": "غداً…",
+  "startMs": 37800,
+  "endMs": 39320,
+  "timestampMs": 38560,
+  "confidence": 0.89
+ },
+ {
+  "text": "يريد",
+  "startMs": 39740,
+  "endMs": 40440,
+  "timestampMs": 40090,
+  "confidence": 0.947
+ },
+ {
+  "text": "شعاراً",
+  "startMs": 40440,
+  "endMs": 40980,
+  "timestampMs": 40710,
+  "confidence": 0.962
+ },
+ {
+  "text": "بخطٍّ",
+  "startMs": 40980,
+  "endMs": 41480,
+  "timestampMs": 41230,
+  "confidence": 0.899
+ },
+ {
+  "text": "واحد،",
+  "startMs": 41480,
+  "endMs": 42080,
+  "timestampMs": 41780,
+  "confidence": 0.892
+ },
+ {
+  "text": "بدون",
+  "startMs": 42080,
+  "endMs": 42980,
+  "timestampMs": 42530,
+  "confidence": 0.984
+ },
+ {
+  "text": "رفع",
+  "startMs": 42980,
+  "endMs": 43300,
+  "timestampMs": 43140,
+  "confidence": 0.976
+ },
+ {
+  "text": "القلم.",
+  "startMs": 43300,
+  "endMs": 43740,
+  "timestampMs": 43520,
+  "confidence": 0.974
+ }
+]

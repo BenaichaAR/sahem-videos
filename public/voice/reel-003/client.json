@@ -1,0 +1,37 @@
+[
+ {
+  "text": "أريد",
+  "startMs": 0,
+  "endMs": 688,
+  "timestampMs": 344,
+  "confidence": 1
+ },
+ {
+  "text": "موقعاً…",
+  "startMs": 688,
+  "endMs": 1720,
+  "timestampMs": 1204,
+  "confidence": 1
+ },
+ {
+  "text": "بدون",
+  "startMs": 2510,
+  "endMs": 2936,
+  "timestampMs": 2723,
+  "confidence": 1
+ },
+ {
+  "text": "أيّ",
+  "startMs": 2936,
+  "endMs": 3292,
+  "timestampMs": 3114,
+  "confidence": 1
+ },
+ {
+  "text": "كلمة.",
+  "startMs": 3292,
+  "endMs": 3790,
+  "timestampMs": 3541,
+  "confidence": 1
+ }
+]

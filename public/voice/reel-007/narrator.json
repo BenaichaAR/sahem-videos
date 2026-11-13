@@ -1,0 +1,394 @@
+[
+ {
+  "text": "كلّ",
+  "startMs": 0,
+  "endMs": 331,
+  "timestampMs": 165,
+  "confidence": 1
+ },
+ {
+  "text": "شيء؟",
+  "startMs": 331,
+  "endMs": 730,
+  "timestampMs": 530,
+  "confidence": 1
+ },
+ {
+  "text": "سبعة",
+  "startMs": 1540,
+  "endMs": 1977,
+  "timestampMs": 1758,
+  "confidence": 1
+ },
+ {
+  "text": "أيّام…",
+  "startMs": 1977,
+  "endMs": 2560,
+  "timestampMs": 2268,
+  "confidence": 1
+ },
+ {
+  "text": "في",
+  "startMs": 3070,
+  "endMs": 3349,
+  "timestampMs": 3210,
+  "confidence": 1
+ },
+ {
+  "text": "سبع",
+  "startMs": 3349,
+  "endMs": 3699,
+  "timestampMs": 3524,
+  "confidence": 1
+ },
+ {
+  "text": "ثوانٍ.",
+  "startMs": 3699,
+  "endMs": 4260,
+  "timestampMs": 3979,
+  "confidence": 1
+ },
+ {
+  "text": "جاهز؟",
+  "startMs": 5210,
+  "endMs": 5770,
+  "timestampMs": 5490,
+  "confidence": 1
+ },
+ {
+  "text": "سبعة",
+  "startMs": 7780,
+  "endMs": 8434,
+  "timestampMs": 8107,
+  "confidence": 1
+ },
+ {
+  "text": "طلبات",
+  "startMs": 8434,
+  "endMs": 9198,
+  "timestampMs": 8816,
+  "confidence": 1
+ },
+ {
+  "text": "مستحيلة…",
+  "startMs": 9198,
+  "endMs": 10290,
+  "timestampMs": 9744,
+  "confidence": 1
+ },
+ {
+  "text": "ولم",
+  "startMs": 11140,
+  "endMs": 11499,
+  "timestampMs": 11319,
+  "confidence": 1
+ },
+ {
+  "text": "يكن",
+  "startMs": 11499,
+  "endMs": 11858,
+  "timestampMs": 11678,
+  "confidence": 1
+ },
+ {
+  "text": "أيٌّ",
+  "startMs": 11858,
+  "endMs": 12289,
+  "timestampMs": 12073,
+  "confidence": 1
+ },
+ {
+  "text": "منها",
+  "startMs": 12289,
+  "endMs": 12720,
+  "timestampMs": 12504,
+  "confidence": 1
+ },
+ {
+  "text": "مستحيلاً.",
+  "startMs": 12720,
+  "endMs": 13510,
+  "timestampMs": 13115,
+  "confidence": 1
+ },
+ {
+  "text": "والآن…",
+  "startMs": 14990,
+  "endMs": 15520,
+  "timestampMs": 15254,
+  "confidence": 1
+ },
+ {
+  "text": "هل",
+  "startMs": 16500,
+  "endMs": 16729,
+  "timestampMs": 16614,
+  "confidence": 1
+ },
+ {
+  "text": "عرفت",
+  "startMs": 16729,
+  "endMs": 17072,
+  "timestampMs": 16901,
+  "confidence": 1
+ },
+ {
+  "text": "من",
+  "startMs": 17072,
+  "endMs": 17302,
+  "timestampMs": 17187,
+  "confidence": 1
+ },
+ {
+  "text": "هو",
+  "startMs": 17302,
+  "endMs": 17531,
+  "timestampMs": 17416,
+  "confidence": 1
+ },
+ {
+  "text": "العميل",
+  "startMs": 17531,
+  "endMs": 17989,
+  "timestampMs": 17760,
+  "confidence": 1
+ },
+ {
+  "text": "المستحيل؟",
+  "startMs": 17989,
+  "endMs": 18619,
+  "timestampMs": 18304,
+  "confidence": 1
+ },
+ {
+  "text": "إنّه…",
+  "startMs": 19910,
+  "endMs": 20480,
+  "timestampMs": 20195,
+  "confidence": 1
+ },
+ {
+  "text": "أنت.",
+  "startMs": 21330,
+  "endMs": 21800,
+  "timestampMs": 21564,
+  "confidence": 1
+ },
+ {
+  "text": "اجمع",
+  "startMs": 22850,
+  "endMs": 23189,
+  "timestampMs": 23019,
+  "confidence": 1
+ },
+ {
+  "text": "الحروف",
+  "startMs": 23189,
+  "endMs": 23641,
+  "timestampMs": 23415,
+  "confidence": 1
+ },
+ {
+  "text": "السبعة…",
+  "startMs": 23641,
+  "endMs": 24150,
+  "timestampMs": 23895,
+  "confidence": 1
+ },
+ {
+  "text": "رتّبها…",
+  "startMs": 24640,
+  "endMs": 25240,
+  "timestampMs": 24939,
+  "confidence": 1
+ },
+ {
+  "text": "وأرسل",
+  "startMs": 25570,
+  "endMs": 26054,
+  "timestampMs": 25812,
+  "confidence": 1
+ },
+ {
+  "text": "الكلمة",
+  "startMs": 26054,
+  "endMs": 26608,
+  "timestampMs": 26331,
+  "confidence": 1
+ },
+ {
+  "text": "لنا",
+  "startMs": 26608,
+  "endMs": 26954,
+  "timestampMs": 26781,
+  "confidence": 1
+ },
+ {
+  "text": "في",
+  "startMs": 26954,
+  "endMs": 27231,
+  "timestampMs": 27093,
+  "confidence": 1
+ },
+ {
+  "text": "رسالة",
+  "startMs": 27231,
+  "endMs": 27716,
+  "timestampMs": 27473,
+  "confidence": 1
+ },
+ {
+  "text": "خاصّة.",
+  "startMs": 27716,
+  "endMs": 28270,
+  "timestampMs": 27993,
+  "confidence": 1
+ },
+ {
+  "text": "أوّل",
+  "startMs": 28890,
+  "endMs": 29273,
+  "timestampMs": 29081,
+  "confidence": 1
+ },
+ {
+  "text": "من",
+  "startMs": 29273,
+  "endMs": 29528,
+  "timestampMs": 29400,
+  "confidence": 1
+ },
+ {
+  "text": "يرسلها",
+  "startMs": 29528,
+  "endMs": 30039,
+  "timestampMs": 29783,
+  "confidence": 1
+ },
+ {
+  "text": "صحيحة…",
+  "startMs": 30039,
+  "endMs": 30550,
+  "timestampMs": 30294,
+  "confidence": 1
+ },
+ {
+  "text": "يربح",
+  "startMs": 30880,
+  "endMs": 31343,
+  "timestampMs": 31111,
+  "confidence": 1
+ },
+ {
+  "text": "مراجعة",
+  "startMs": 31343,
+  "endMs": 31962,
+  "timestampMs": 31653,
+  "confidence": 1
+ },
+ {
+  "text": "مجّانيّة",
+  "startMs": 31962,
+  "endMs": 32735,
+  "timestampMs": 32349,
+  "confidence": 1
+ },
+ {
+  "text": "لهويّة",
+  "startMs": 32735,
+  "endMs": 33354,
+  "timestampMs": 33044,
+  "confidence": 1
+ },
+ {
+  "text": "مشروعه.",
+  "startMs": 33354,
+  "endMs": 34050,
+  "timestampMs": 33702,
+  "confidence": 1
+ },
+ {
+  "text": "وما",
+  "startMs": 34730,
+  "endMs": 35068,
+  "timestampMs": 34899,
+  "confidence": 1
+ },
+ {
+  "text": "هو",
+  "startMs": 35068,
+  "endMs": 35339,
+  "timestampMs": 35203,
+  "confidence": 1
+ },
+ {
+  "text": "طلبك",
+  "startMs": 35339,
+  "endMs": 35745,
+  "timestampMs": 35542,
+  "confidence": 1
+ },
+ {
+  "text": "المستحيل؟",
+  "startMs": 35745,
+  "endMs": 36490,
+  "timestampMs": 36117,
+  "confidence": 1
+ },
+ {
+  "text": "اكتبه",
+  "startMs": 37020,
+  "endMs": 37403,
+  "timestampMs": 37211,
+  "confidence": 1
+ },
+ {
+  "text": "في",
+  "startMs": 37403,
+  "endMs": 37622,
+  "timestampMs": 37513,
+  "confidence": 1
+ },
+ {
+  "text": "التعليقات…",
+  "startMs": 37622,
+  "endMs": 38280,
+  "timestampMs": 37951,
+  "confidence": 1
+ },
+ {
+  "text": "فالموسم",
+  "startMs": 38890,
+  "endMs": 39535,
+  "timestampMs": 39212,
+  "confidence": 1
+ },
+ {
+  "text": "الثاني…",
+  "startMs": 39535,
+  "endMs": 40179,
+  "timestampMs": 39857,
+  "confidence": 1
+ },
+ {
+  "text": "سيُبنى",
+  "startMs": 40670,
+  "endMs": 41400,
+  "timestampMs": 41035,
+  "confidence": 1
+ },
+ {
+  "text": "من",
+  "startMs": 41400,
+  "endMs": 41766,
+  "timestampMs": 41583,
+  "confidence": 1
+ },
+ {
+  "text": "طلباتكم.",
+  "startMs": 41766,
+  "endMs": 42680,
+  "timestampMs": 42223,
+  "confidence": 1
+ }
+]

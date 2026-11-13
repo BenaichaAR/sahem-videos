@@ -1,0 +1,44 @@
+[
+ {
+  "text": "أريد",
+  "startMs": 0,
+  "endMs": 709,
+  "timestampMs": 354,
+  "confidence": 1
+ },
+ {
+  "text": "كلّ",
+  "startMs": 709,
+  "endMs": 1300,
+  "timestampMs": 1004,
+  "confidence": 1
+ },
+ {
+  "text": "شيء…",
+  "startMs": 1300,
+  "endMs": 2009,
+  "timestampMs": 1655,
+  "confidence": 1
+ },
+ {
+  "text": "في",
+  "startMs": 2780,
+  "endMs": 3003,
+  "timestampMs": 2891,
+  "confidence": 1
+ },
+ {
+  "text": "سبع",
+  "startMs": 3003,
+  "endMs": 3282,
+  "timestampMs": 3143,
+  "confidence": 1
+ },
+ {
+  "text": "ثوانٍ.",
+  "startMs": 3282,
+  "endMs": 3730,
+  "timestampMs": 3506,
+  "confidence": 1
+ }
+]

@@ -1,0 +1,79 @@
+[
+ {
+  "text": "سهم",
+  "startMs": 0,
+  "endMs": 520,
+  "timestampMs": 260,
+  "confidence": 0.751
+ },
+ {
+  "text": "ستوديو",
+  "startMs": 520,
+  "endMs": 1200,
+  "timestampMs": 860,
+  "confidence": 0.374
+ },
+ {
+  "text": "يصمّم",
+  "startMs": 1200,
+  "endMs": 1840,
+  "timestampMs": 1520,
+  "confidence": 0.644
+ },
+ {
+  "text": "لك",
+  "startMs": 1840,
+  "endMs": 2060,
+  "timestampMs": 1950,
+  "confidence": 0.952
+ },
+ {
+  "text": "هويةً",
+  "startMs": 2060,
+  "endMs": 2740,
+  "timestampMs": 2400,
+  "confidence": 0.138
+ },
+ {
+  "text": "واضحةً",
+  "startMs": 2740,
+  "endMs": 3460,
+  "timestampMs": 3100,
+  "confidence": 0.965
+ },
+ {
+  "text": "وموقعاً",
+  "startMs": 3460,
+  "endMs": 4240,
+  "timestampMs": 3850,
+  "confidence": 0.807
+ },
+ {
+  "text": "سريعاً",
+  "startMs": 4240,
+  "endMs": 4740,
+  "timestampMs": 4490,
+  "confidence": 0.813
+ },
+ {
+  "text": "يوصلك",
+  "startMs": 4740,
+  "endMs": 5340,
+  "timestampMs": 5040,
+  "confidence": 0.873
+ },
+ {
+  "text": "إلى",
+  "startMs": 5340,
+  "endMs": 5620,
+  "timestampMs": 5480,
+  "confidence": 0.971
+ },
+ {
+  "text": "عملائك.",
+  "startMs": 5620,
+  "endMs": 6340,
+  "timestampMs": 5980,
+  "confidence": 0.875
+ }
+]

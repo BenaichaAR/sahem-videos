@@ -1,0 +1,51 @@
+[
+ {
+  "text": "أريد",
+  "startMs": 0,
+  "endMs": 520,
+  "timestampMs": 260,
+  "confidence": 0.911
+ },
+ {
+  "text": "شعاراً…",
+  "startMs": 520,
+  "endMs": 2060,
+  "timestampMs": 1290,
+  "confidence": 0.788
+ },
+ {
+  "text": "بخطٍّ",
+  "startMs": 2226,
+  "endMs": 2740,
+  "timestampMs": 2400,
+  "confidence": 0.773
+ },
+ {
+  "text": "واحد.",
+  "startMs": 2740,
+  "endMs": 3400,
+  "timestampMs": 3070,
+  "confidence": 0.96
+ },
+ {
+  "text": "بدون",
+  "startMs": 3998,
+  "endMs": 4360,
+  "timestampMs": 3880,
+  "confidence": 0.95
+ },
+ {
+  "text": "رفع",
+  "startMs": 4360,
+  "endMs": 4720,
+  "timestampMs": 4540,
+  "confidence": 0.955
+ },
+ {
+  "text": "القلم.",
+  "startMs": 4720,
+  "endMs": 5240,
+  "timestampMs": 4980,
+  "confidence": 0.98
+ }
+]

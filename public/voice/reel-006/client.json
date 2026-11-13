@@ -1,0 +1,37 @@
+[
+ {
+  "text": "أريد",
+  "startMs": 0,
+  "endMs": 696,
+  "timestampMs": 348,
+  "confidence": 1
+ },
+ {
+  "text": "شعاراً…",
+  "startMs": 696,
+  "endMs": 1740,
+  "timestampMs": 1218,
+  "confidence": 1
+ },
+ {
+  "text": "يكبر",
+  "startMs": 2350,
+  "endMs": 2801,
+  "timestampMs": 2575,
+  "confidence": 1
+ },
+ {
+  "text": "مع",
+  "startMs": 2801,
+  "endMs": 3102,
+  "timestampMs": 2952,
+  "confidence": 1
+ },
+ {
+  "text": "مشروعي.",
+  "startMs": 3102,
+  "endMs": 3780,
+  "timestampMs": 3441,
+  "confidence": 1
+ }
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "text": "أريد",
+  "startMs": 0,
+  "endMs": 800,
+  "timestampMs": 400,
+  "confidence": 0.582
+ },
+ {
+  "text": "شعاراً…",
+  "startMs": 800,
+  "endMs": 1620,
+  "timestampMs": 1210,
+  "confidence": 0.924
+ },
+ {
+  "text": "يُسمَع",
+  "startMs": 2550,
+  "endMs": 3400,
+  "timestampMs": 2510,
+  "confidence": 0.462
+ }
+]

@@ -1,0 +1,359 @@
+[
+ {
+  "text": "بخطٍّ",
+  "startMs": 0,
+  "endMs": 500,
+  "timestampMs": 250,
+  "confidence": 0.778
+ },
+ {
+  "text": "واحد؟",
+  "startMs": 500,
+  "endMs": 1120,
+  "timestampMs": 810,
+  "confidence": 0.619
+ },
+ {
+  "text": "يعني",
+  "startMs": 1829,
+  "endMs": 2120,
+  "timestampMs": 1620,
+  "confidence": 0.676
+ },
+ {
+  "text": "القلم",
+  "startMs": 2120,
+  "endMs": 2520,
+  "timestampMs": 2320,
+  "confidence": 0.946
+ },
+ {
+  "text": "ينزل…",
+  "startMs": 2520,
+  "endMs": 3560,
+  "timestampMs": 3040,
+  "confidence": 0.989
+ },
+ {
+  "text": "ولا",
+  "startMs": 3804,
+  "endMs": 4100,
+  "timestampMs": 3760,
+  "confidence": 0.304
+ },
+ {
+  "text": "يرتفع",
+  "startMs": 4100,
+  "endMs": 4700,
+  "timestampMs": 4400,
+  "confidence": 0.992
+ },
+ {
+  "text": "حتّى",
+  "startMs": 4700,
+  "endMs": 5160,
+  "timestampMs": 4930,
+  "confidence": 0.987
+ },
+ {
+  "text": "النهاية.",
+  "startMs": 5160,
+  "endMs": 6000,
+  "timestampMs": 5580,
+  "confidence": 0.887
+ },
+ {
+  "text": "هذه",
+  "startMs": 6977,
+  "endMs": 7220,
+  "timestampMs": 6915,
+  "confidence": 0.937
+ },
+ {
+  "text": "أصعب",
+  "startMs": 7220,
+  "endMs": 8100,
+  "timestampMs": 7660,
+  "confidence": 0.788
+ },
+ {
+  "text": "قاعدة",
+  "startMs": 8100,
+  "endMs": 8680,
+  "timestampMs": 8390,
+  "confidence": 0.988
+ },
+ {
+  "text": "في",
+  "startMs": 8680,
+  "endMs": 8840,
+  "timestampMs": 8760,
+  "confidence": 0.961
+ },
+ {
+  "text": "التصميم.",
+  "startMs": 8840,
+  "endMs": 9600,
+  "timestampMs": 9220,
+  "confidence": 0.985
+ },
+ {
+  "text": "لأنّها",
+  "startMs": 9899,
+  "endMs": 10340,
+  "timestampMs": 9970,
+  "confidence": 0.965
+ },
+ {
+  "text": "تُجبرك",
+  "startMs": 10340,
+  "endMs": 10940,
+  "timestampMs": 10640,
+  "confidence": 0.982
+ },
+ {
+  "text": "على",
+  "startMs": 10940,
+  "endMs": 11200,
+  "timestampMs": 11070,
+  "confidence": 0.99
+ },
+ {
+  "text": "شيء",
+  "startMs": 11200,
+  "endMs": 11660,
+  "timestampMs": 11430,
+  "confidence": 0.955
+ },
+ {
+  "text": "واحد…",
+  "startMs": 11660,
+  "endMs": 12260,
+  "timestampMs": 11960,
+  "confidence": 0.99
+ },
+ {
+  "text": "البساطة.",
+  "startMs": 12921,
+  "endMs": 13800,
+  "timestampMs": 13300,
+  "confidence": 0.818
+ },
+ {
+  "text": "كلّ",
+  "startMs": 14673,
+  "endMs": 14900,
+  "timestampMs": 14690,
+  "confidence": 0.953
+ },
+ {
+  "text": "تفصيلة",
+  "startMs": 14900,
+  "endMs": 15660,
+  "timestampMs": 15280,
+  "confidence": 0.956
+ },
+ {
+  "text": "زائدة…",
+  "startMs": 15660,
+  "endMs": 16320,
+  "timestampMs": 15990,
+  "confidence": 0.95
+ },
+ {
+  "text": "تسقط.",
+  "startMs": 16855,
+  "endMs": 17240,
+  "timestampMs": 16780,
+  "confidence": 0.926
+ },
+ {
+  "text": "والمفاجأة؟",
+  "startMs": 18030,
+  "endMs": 18740,
+  "timestampMs": 18280,
+  "confidence": 0.854
+ },
+ {
+  "text": "شعارنا",
+  "startMs": 19220,
+  "endMs": 19800,
+  "timestampMs": 19240,
+  "confidence": 0.826
+ },
+ {
+  "text": "نحن…",
+  "startMs": 19800,
+  "endMs": 20290,
+  "timestampMs": 20180,
+  "confidence": 0.988
+ },
+ {
+  "text": "طريقٌ",
+  "startMs": 20726,
+  "endMs": 21080,
+  "timestampMs": 20800,
+  "confidence": 0.983
+ },
+ {
+  "text": "واحد،",
+  "startMs": 21080,
+  "endMs": 21720,
+  "timestampMs": 21400,
+  "confidence": 0.989
+ },
+ {
+  "text": "من",
+  "startMs": 21720,
+  "endMs": 22180,
+  "timestampMs": 21950,
+  "confidence": 0.984
+ },
+ {
+  "text": "النقطة",
+  "startMs": 22180,
+  "endMs": 23000,
+  "timestampMs": 22590,
+  "confidence": 0.988
+ },
+ {
+  "text": "إلى",
+  "startMs": 23000,
+  "endMs": 23200,
+  "timestampMs": 23100,
+  "confidence": 0.922
+ },
+ {
+  "text": "السهم.",
+  "startMs": 23200,
+  "endMs": 23680,
+  "timestampMs": 23440,
+  "confidence": 0.893
+ },
+ {
+  "text": "إذا",
+  "startMs": 24441,
+  "endMs": 24680,
+  "timestampMs": 24375,
+  "confidence": 0.97
+ },
+ {
+  "text": "لم",
+  "startMs": 24680,
+  "endMs": 24820,
+  "timestampMs": 24750,
+  "confidence": 0.991
+ },
+ {
+  "text": "تستطع",
+  "startMs": 24820,
+  "endMs": 25500,
+  "timestampMs": 25160,
+  "confidence": 0.854
+ },
+ {
+  "text": "أن",
+  "startMs": 25500,
+  "endMs": 25700,
+  "timestampMs": 25600,
+  "confidence": 0.971
+ },
+ {
+  "text": "ترسم",
+  "startMs": 25700,
+  "endMs": 26040,
+  "timestampMs": 25870,
+  "confidence": 0.89
+ },
+ {
+  "text": "فكرتك",
+  "startMs": 26040,
+  "endMs": 26740,
+  "timestampMs": 26390,
+  "confidence": 0.823
+ },
+ {
+  "text": "بخطٍّ",
+  "startMs": 26740,
+  "endMs": 27220,
+  "timestampMs": 26980,
+  "confidence": 0.997
+ },
+ {
+  "text": "واحد…",
+  "startMs": 27220,
+  "endMs": 27980,
+  "timestampMs": 27600,
+  "confidence": 0.998
+ },
+ {
+  "text": "فهي",
+  "startMs": 28439,
+  "endMs": 28800,
+  "timestampMs": 28390,
+  "confidence": 0.889
+ },
+ {
+  "text": "ليست",
+  "startMs": 28800,
+  "endMs": 29300,
+  "timestampMs": 29050,
+  "confidence": 0.814
+ },
+ {
+  "text": "جاهزة",
+  "startMs": 29300,
+  "endMs": 29960,
+  "timestampMs": 29630,
+  "confidence": 0.944
+ },
+ {
+  "text": "بعد.",
+  "startMs": 29960,
+  "endMs": 30280,
+  "timestampMs": 30120,
+  "confidence": 0.845
+ },
+ {
+  "text": "غداً…",
+  "startMs": 31440,
+  "endMs": 32020,
+  "timestampMs": 31480,
+  "confidence": 0.854
+ },
+ {
+  "text": "يريد",
+  "startMs": 32700,
+  "endMs": 33200,
+  "timestampMs": 32420,
+  "confidence": 0.939
+ },
+ {
+  "text": "موقعاً…",
+  "startMs": 33200,
+  "endMs": 33830,
+  "timestampMs": 33340,
+  "confidence": 0.825
+ },
+ {
+  "text": "بدون",
+  "startMs": 34210,
+  "endMs": 34850,
+  "timestampMs": 34160,
+  "confidence": 0.982
+ },
+ {
+  "text": "أيّ",
+  "startMs": 34850,
+  "endMs": 35150,
+  "timestampMs": 34880,
+  "confidence": 0.693
+ },
+ {
+  "text": "كلمة.",
+  "startMs": 35150,
+  "endMs": 35800,
+  "timestampMs": 35390,
+  "confidence": 0.908
+ }
+]

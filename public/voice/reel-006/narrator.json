@@ -1,0 +1,415 @@
+[
+ {
+  "text": "شعارٌ",
+  "startMs": 0,
+  "endMs": 595,
+  "timestampMs": 297,
+  "confidence": 1
+ },
+ {
+  "text": "يكبر؟",
+  "startMs": 595,
+  "endMs": 1190,
+  "timestampMs": 892,
+  "confidence": 1
+ },
+ {
+  "text": "أغلب",
+  "startMs": 2050,
+  "endMs": 2706,
+  "timestampMs": 2378,
+  "confidence": 1
+ },
+ {
+  "text": "الشعارات…",
+  "startMs": 2706,
+  "endMs": 3910,
+  "timestampMs": 3308,
+  "confidence": 1
+ },
+ {
+  "text": "تُصمَّم",
+  "startMs": 4250,
+  "endMs": 4913,
+  "timestampMs": 4581,
+  "confidence": 1
+ },
+ {
+  "text": "لمقاسٍ",
+  "startMs": 4913,
+  "endMs": 5503,
+  "timestampMs": 5208,
+  "confidence": 1
+ },
+ {
+  "text": "واحد.",
+  "startMs": 5503,
+  "endMs": 6020,
+  "timestampMs": 5761,
+  "confidence": 1
+ },
+ {
+  "text": "فتضيع",
+  "startMs": 7040,
+  "endMs": 7564,
+  "timestampMs": 7302,
+  "confidence": 1
+ },
+ {
+  "text": "في",
+  "startMs": 7564,
+  "endMs": 7864,
+  "timestampMs": 7715,
+  "confidence": 1
+ },
+ {
+  "text": "الصغير…",
+  "startMs": 7864,
+  "endMs": 8540,
+  "timestampMs": 8202,
+  "confidence": 1
+ },
+ {
+  "text": "وتفقد",
+  "startMs": 9040,
+  "endMs": 9500,
+  "timestampMs": 9270,
+  "confidence": 1
+ },
+ {
+  "text": "قوّتها",
+  "startMs": 9500,
+  "endMs": 10025,
+  "timestampMs": 9762,
+  "confidence": 1
+ },
+ {
+  "text": "في",
+  "startMs": 10025,
+  "endMs": 10288,
+  "timestampMs": 10157,
+  "confidence": 1
+ },
+ {
+  "text": "الكبير.",
+  "startMs": 10288,
+  "endMs": 10880,
+  "timestampMs": 10584,
+  "confidence": 1
+ },
+ {
+  "text": "الحلّ؟",
+  "startMs": 11710,
+  "endMs": 12180,
+  "timestampMs": 11945,
+  "confidence": 1
+ },
+ {
+  "text": "ليس",
+  "startMs": 12780,
+  "endMs": 13123,
+  "timestampMs": 12951,
+  "confidence": 1
+ },
+ {
+  "text": "شعاراً",
+  "startMs": 13123,
+  "endMs": 13672,
+  "timestampMs": 13397,
+  "confidence": 1
+ },
+ {
+  "text": "واحداً…",
+  "startMs": 13672,
+  "endMs": 14290,
+  "timestampMs": 13981,
+  "confidence": 1
+ },
+ {
+  "text": "بل",
+  "startMs": 14600,
+  "endMs": 14906,
+  "timestampMs": 14753,
+  "confidence": 1
+ },
+ {
+  "text": "عائلة.",
+  "startMs": 14906,
+  "endMs": 15520,
+  "timestampMs": 15213,
+  "confidence": 1
+ },
+ {
+  "text": "نقطة…",
+  "startMs": 16420,
+  "endMs": 16890,
+  "timestampMs": 16655,
+  "confidence": 1
+ },
+ {
+  "text": "رمز…",
+  "startMs": 17420,
+  "endMs": 17870,
+  "timestampMs": 17645,
+  "confidence": 1
+ },
+ {
+  "text": "رمزٌ",
+  "startMs": 18340,
+  "endMs": 18773,
+  "timestampMs": 18556,
+  "confidence": 1
+ },
+ {
+  "text": "واسم…",
+  "startMs": 18773,
+  "endMs": 19280,
+  "timestampMs": 19026,
+  "confidence": 1
+ },
+ {
+  "text": "ثمّ",
+  "startMs": 19640,
+  "endMs": 19953,
+  "timestampMs": 19796,
+  "confidence": 1
+ },
+ {
+  "text": "الشعار",
+  "startMs": 19953,
+  "endMs": 20455,
+  "timestampMs": 20204,
+  "confidence": 1
+ },
+ {
+  "text": "كاملاً.",
+  "startMs": 20455,
+  "endMs": 21019,
+  "timestampMs": 20737,
+  "confidence": 1
+ },
+ {
+  "text": "يبدأ",
+  "startMs": 21890,
+  "endMs": 22247,
+  "timestampMs": 22068,
+  "confidence": 1
+ },
+ {
+  "text": "المشروع",
+  "startMs": 22247,
+  "endMs": 22783,
+  "timestampMs": 22515,
+  "confidence": 1
+ },
+ {
+  "text": "نقطةً…",
+  "startMs": 22783,
+  "endMs": 23260,
+  "timestampMs": 23021,
+  "confidence": 1
+ },
+ {
+  "text": "في",
+  "startMs": 23650,
+  "endMs": 23898,
+  "timestampMs": 23774,
+  "confidence": 1
+ },
+ {
+  "text": "تبويبٍ",
+  "startMs": 23898,
+  "endMs": 24395,
+  "timestampMs": 24146,
+  "confidence": 1
+ },
+ {
+  "text": "صغير.",
+  "startMs": 24395,
+  "endMs": 24830,
+  "timestampMs": 24612,
+  "confidence": 1
+ },
+ {
+  "text": "ثمّ",
+  "startMs": 25270,
+  "endMs": 25570,
+  "timestampMs": 25420,
+  "confidence": 1
+ },
+ {
+  "text": "أيقونةً…",
+  "startMs": 25570,
+  "endMs": 26170,
+  "timestampMs": 25870,
+  "confidence": 1
+ },
+ {
+  "text": "على",
+  "startMs": 26470,
+  "endMs": 26752,
+  "timestampMs": 26611,
+  "confidence": 1
+ },
+ {
+  "text": "الهاتف.",
+  "startMs": 26752,
+  "endMs": 27260,
+  "timestampMs": 27006,
+  "confidence": 1
+ },
+ {
+  "text": "ثمّ",
+  "startMs": 27760,
+  "endMs": 28137,
+  "timestampMs": 27948,
+  "confidence": 1
+ },
+ {
+  "text": "بطاقة",
+  "startMs": 28137,
+  "endMs": 28666,
+  "timestampMs": 28402,
+  "confidence": 1
+ },
+ {
+  "text": "عمل…",
+  "startMs": 28666,
+  "endMs": 29120,
+  "timestampMs": 28893,
+  "confidence": 1
+ },
+ {
+  "text": "ثمّ",
+  "startMs": 29500,
+  "endMs": 29892,
+  "timestampMs": 29696,
+  "confidence": 1
+ },
+ {
+  "text": "لافتةً…",
+  "startMs": 29892,
+  "endMs": 30600,
+  "timestampMs": 30246,
+  "confidence": 1
+ },
+ {
+  "text": "على",
+  "startMs": 30600,
+  "endMs": 31020,
+  "timestampMs": 30810,
+  "confidence": 1
+ },
+ {
+  "text": "واجهة",
+  "startMs": 31020,
+  "endMs": 31608,
+  "timestampMs": 31314,
+  "confidence": 1
+ },
+ {
+  "text": "محلّك.",
+  "startMs": 31608,
+  "endMs": 32280,
+  "timestampMs": 31944,
+  "confidence": 1
+ },
+ {
+  "text": "الشعار",
+  "startMs": 33020,
+  "endMs": 33610,
+  "timestampMs": 33315,
+  "confidence": 1
+ },
+ {
+  "text": "الذي",
+  "startMs": 33610,
+  "endMs": 34053,
+  "timestampMs": 33831,
+  "confidence": 1
+ },
+ {
+  "text": "يكبر…",
+  "startMs": 34053,
+  "endMs": 34570,
+  "timestampMs": 34311,
+  "confidence": 1
+ },
+ {
+  "text": "هو",
+  "startMs": 35020,
+  "endMs": 35295,
+  "timestampMs": 35157,
+  "confidence": 1
+ },
+ {
+  "text": "الذي",
+  "startMs": 35295,
+  "endMs": 35708,
+  "timestampMs": 35501,
+  "confidence": 1
+ },
+ {
+  "text": "يعرف…",
+  "startMs": 35708,
+  "endMs": 36190,
+  "timestampMs": 35949,
+  "confidence": 1
+ },
+ {
+  "text": "متى",
+  "startMs": 36560,
+  "endMs": 36955,
+  "timestampMs": 36757,
+  "confidence": 1
+ },
+ {
+  "text": "يصغر.",
+  "startMs": 36955,
+  "endMs": 37510,
+  "timestampMs": 37232,
+  "confidence": 1
+ },
+ {
+  "text": "غداً…",
+  "startMs": 38440,
+  "endMs": 38930,
+  "timestampMs": 38685,
+  "confidence": 1
+ },
+ {
+  "text": "الطلب",
+  "startMs": 39510,
+  "endMs": 39921,
+  "timestampMs": 39715,
+  "confidence": 1
+ },
+ {
+  "text": "الأخير.",
+  "startMs": 39921,
+  "endMs": 40450,
+  "timestampMs": 40185,
+  "confidence": 1
+ },
+ {
+  "text": "هل",
+  "startMs": 41230,
+  "endMs": 41463,
+  "timestampMs": 41346,
+  "confidence": 1
+ },
+ {
+  "text": "جمعت",
+  "startMs": 41463,
+  "endMs": 41814,
+  "timestampMs": 41638,
+  "confidence": 1
+ },
+ {
+  "text": "الحروف؟",
+  "startMs": 41814,
+  "endMs": 42340,
+  "timestampMs": 42077,
+  "confidence": 1
+ }
+]
